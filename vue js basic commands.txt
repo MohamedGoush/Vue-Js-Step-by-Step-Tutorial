@@ -1,0 +1,15 @@
+Install Vue Js in Computer:
+
+npm install -g @vue/cli
+
+yarn global add @vue/cli
+
+
+run Vue Js:
+*********
+
+vue create <Project Name>
+
+cd <Project Name>
+
+yarn serve / npm run serve
